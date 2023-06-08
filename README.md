@@ -1,10 +1,13 @@
 # Título del proyecto
 
-Gestor de tareas con HTML, CSS y JavaScript
+Formulario de registro con HTML, CSS y JavaScript
 
 ## Descripción
 
-Este proyecto es un gestor de tareas simple que permite a los usuarios crear, organizar y realizar un seguimiento de sus tareas diarias. Está desarrollado utilizando HTML, CSS y JavaScript con el uso del DOM y Local Storage para almacenar los datos de las tareas.
+Este proyecto es un registro de asistentes simple que permite a los usuarios a conferencias telematicos, registrarse con su nombre, y correo electrónico para mantener un registro de asistentes actualizado.
+
+Está desarrollado utilizando HTML, CSS y JavaScript con el uso del DOM y Local Storage para almacenar los datos de las
+personas.
 
 ## Insignias
 
@@ -13,7 +16,12 @@ Este proyecto es un gestor de tareas simple que permite a los usuarios crear, or
 
 ## Visuals
 
-![Captura de pantalla](screenshot.png)
+![Captura de pantalla]
+(assets/images/print01.png)
+(assets/images/print02.png)
+(assets/images/print03.png)
+
+
 
 ## Inicio 🚀
 
@@ -30,20 +38,20 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 1. Clona este repositorio en tu máquina local.
 
 ```bash
-git clone https://github.com/tu-usuario-github/nombre-repo.git
+git clone https://github.com/jaimered09/CRUD.git
 ```
 
 1. Navega hasta el directorio del proyecto.
 
 ```bash
-cd nombre-repo
+cd CRUD
 ```
 
 1. Abre el archivo `index.html` en tu navegador web.
 
 ## Ejecutando las pruebas ⚙️
 
-Este proyecto no cuenta con pruebas automatizadas. Sin embargo, puedes probar manualmente todas las funcionalidades del gestor de tareas.
+Este proyecto no cuenta con pruebas automatizadas. Sin embargo, puedes probar manualmente todas las funcionalidades al agregar, editar o actualizar la lista de asistentes en el formulario. 
 
 ### Analizar pruebas de extremo a extremo 🔩
 
@@ -61,15 +69,15 @@ Puedes implementar este proyecto en un servidor web o utilizarlo localmente sin 
 
 Herramientas utilizadas para crear el proyecto:
 
-* HTML - Estructura del sitio web.
-* CSS - Estilos y diseño visual.
-* JavaScript - Lógica y funcionalidad del gestor de tareas.
-* DOM - Manipulación del árbol de objetos del documento.
-* Local Storage - Almacenamiento de datos en el navegador.
+  ▷HTML - Estructura del sitio web.
+  ▷CSS - Estilos y diseño visual.
+  ▷JavaScript - Lógica y funcionalidad del gestor de tareas.
+  ▷DOM - Manipulación del árbol de objetos del documento.
+  ▷Local Storage - Almacenamiento de datos en el navegador.
 
 ## Contribuir 🖇️
 
-Este proyecto es de código abierto y las contribuciones son bienvenidas. Puedes colaborar mejorando el diseño, agregando nuevas funcionalidades o corrigiendo errores. ¡Siéntete libre de enviar tus pull requests!
+Este proyecto es de código abierto y las contribuciones son bienvenidas. Puedes colaborar mejorando el diseño, agregando nuevas funcionalidades o corrigiendo errores.
 
 ## Licencia 📄
 
@@ -77,9 +85,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE.md](LICEN
 
 ## Expresiones de gratitud 🎁
 
-Este archivo readme se ha desarrollado utilizando como referencia los siguientes proyectos:
+🍻🍻🍻
 
-* [template-readme-es](https://github.com/brayandiazc/template-readme-es) - creado por [Brayan Diaz C](https://github.com/brayandiazc)
-
----
-⌨ ️con ❤️ por [Tu nombre](https://github.com/tu-usuario-github) 😊
+ ️★ con 🙌🏼 por [JaimeJ](https://github.com/jaimered09) 😎
