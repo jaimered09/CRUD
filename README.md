@@ -4,7 +4,7 @@ Formulario de registro con HTML, CSS y JavaScript
 
 ## Descripción
 
-Este proyecto es un registro de asistentes simple que permite a los usuarios a conferencias telematicos, registrarse con su nombre, y correo electrónico para mantener un registro de asistentes actualizado.
+Este proyecto es un registro de asistentes simple, que permite a los usuarios a videoconferencias registrarse con su nombre, y correo electrónico para mantener un registro de asistentes actualizado.
 
 Está desarrollado utilizando HTML, CSS y JavaScript con el uso del DOM y Local Storage para almacenar los datos de las
 personas.
