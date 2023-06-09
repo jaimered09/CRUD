@@ -1,4 +1,4 @@
-# Título del proyecto
+APLICACION CRUD - registro de asistencia 📋🛎💻
 
 Formulario de registro con HTML, CSS y JavaScript
 
@@ -11,17 +11,21 @@ personas.
 
 ## Insignias
 
-![Estado de las pruebas](https://img.shields.io/badge/pruebas-éxito-brightgreen)
+![Fecha lanzamiento](https://img.shields.io/badge/release%20date-10%20June-green)
 ![Versión](https://img.shields.io/badge/versión-1.0-blue)
+![Creador](https://img.shields.io/badge/build-jaimered09-red)
+
+
 
 ## Visuals
 
 ![Captura de pantalla]
 (assets/images/print01.png)
+<img src="assets/images/print01.png" alt="print1">
 (assets/images/print02.png)
+<img src="assets/images/print02.png" alt="print2">
 (assets/images/print03.png)
-
-
+<img src="assets/images/print03.png" alt="print3">
 
 ## Inicio 🚀
 
@@ -51,7 +55,7 @@ cd CRUD
 
 ## Ejecutando las pruebas ⚙️
 
-Este proyecto no cuenta con pruebas automatizadas. Sin embargo, puedes probar manualmente todas las funcionalidades al agregar, editar o actualizar la lista de asistentes en el formulario. 
+Este proyecto no cuenta con pruebas automatizadas. Sin embargo, puedes probar manualmente todas las funcionalidades al agregar, editar o actualizar la lista de asistentes en el formulario.
 
 ### Analizar pruebas de extremo a extremo 🔩
 
