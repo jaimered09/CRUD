@@ -1,4 +1,4 @@
-APLICACION CRUD - registro de asistencia 📋🛎💻
+## APLICACION CRUD - registro de asistencia 📋🛎💻
 
 Formulario de registro con HTML, CSS y JavaScript
 
@@ -20,11 +20,11 @@ personas.
 ## Visuals
 
 ![Captura de pantalla]
-(assets/images/print01.png)
+
 <img src="assets/images/print01.png" alt="print1">
-(assets/images/print02.png)
+
 <img src="assets/images/print02.png" alt="print2">
-(assets/images/print03.png)
+
 <img src="assets/images/print03.png" alt="print3">
 
 ## Inicio 🚀
